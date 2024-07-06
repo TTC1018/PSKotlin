@@ -710,6 +710,7 @@
 [2792 보석 상자: 실버1](https://www.acmicpc.net/problem/2792)  
 [2805 나무 자르기: 실버2](https://www.acmicpc.net/problem/2805)  
 [3020 개똥벌레: 골드5](https://www.acmicpc.net/problem/3020)  
+[3079 입국심사: 골드5](https://www.acmicpc.net/problem/3079)  
 [5710 전기요금: 골드4](https://www.acmicpc.net/problem/5710)  
 [6068 시간 관리하기: 골드5](https://www.acmicpc.net/problem/6068)  
 [6209 제자리 멀리뛰기: 골드3](https://www.acmicpc.net/problem/6209)  
