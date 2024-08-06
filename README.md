@@ -31,6 +31,7 @@
 [1744 수 묶기: 골드4](https://www.acmicpc.net/problem/1744)  
 [1783 병든나이트: 실버3](https://www.acmicpc.net/problem/1783)  
 [1900 레슬러: 실버2](https://www.acmicpc.net/problem/1900)  
+[1911 흙길 보수하기: 골드5](https://www.acmicpc.net/problem/1911)  
 [1946 신입 사원: 실버1](https://www.acmicpc.net/problem/1946)  
 [2140 지뢰찾기: 골드4](https://www.acmicpc.net/problem/2140)  
 [2141 우체국: 골드4](https://www.acmicpc.net/problem/2141)  
@@ -256,6 +257,7 @@
 [12841 정보대 등산: 실버2](https://www.acmicpc.net/problem/12841)  
 [12847 꿀 아르바이트: 실버3](https://www.acmicpc.net/problem/12847)  
 [14465 소가 길을 건너간 이유 5: 실버2](https://www.acmicpc.net/problem/14465)  
+[17390 이건 꼭 풀어야 해!: 실버3](https://www.acmicpc.net/problem/17390)  
 [18866 젊은 날의 생이여: 골드4](https://www.acmicpc.net/problem/18866)  
 [19951 태상이의 훈련소 생활: 골드5](https://www.acmicpc.net/problem/19951)  
 [20002 사과나무: 골드5](https://www.acmicpc.net/problem/20002)  
@@ -318,6 +320,7 @@
 [13910 개업: 골드5](https://www.acmicpc.net/problem/13910)  
 [14231 박스 포장: 실버2](https://www.acmicpc.net/problem/14231)  
 [14585 사수빈탕: 실버1](https://www.acmicpc.net/problem/14585)  
+[14863 서울에서 경산까지: 골드4](https://www.acmicpc.net/problem/14863)  
 [14925 목장 건설하기: 골드4](https://www.acmicpc.net/problem/14925)  
 [14945 불장난: 골드4](https://www.acmicpc.net/problem/14945)  
 [15486 퇴사 2: 골드5](https://www.acmicpc.net/problem/15486)  
@@ -496,6 +499,7 @@
 [1790 수 이어 쓰기 2: 골드5](https://www.acmicpc.net/problem/1790)  
 [1951 활자: 실버3](https://www.acmicpc.net/problem/1951)  
 [2023 신기한 소수: 골드5](https://www.acmicpc.net/problem/2023)  
+[2312 수 복원하기: 실버3](https://www.acmicpc.net/problem/2312)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [2487 섞기 수열: 골드4](https://www.acmicpc.net/problem/2487)  
 [3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
@@ -710,6 +714,7 @@
 <div markdown="1">
 
 [1477 휴게소 세우기: 골드4](https://www.acmicpc.net/problem/1477)  
+[1756 피자 굽기: 골드5](https://www.acmicpc.net/problem/1756)  
 [2110 공유기 설치: 골드4](https://www.acmicpc.net/problem/2110)  
 [2295 세 수의 합: 골드4](https://www.acmicpc.net/problem/2295)  
 [2343 기타 레슨: 실버1](https://www.acmicpc.net/problem/2343)  
@@ -741,6 +746,7 @@
 [18114 블랙 프라이데이: 골드5](https://www.acmicpc.net/problem/18114)  
 [19637 IF문 좀 대신 써줘: 실버3](https://www.acmicpc.net/problem/19637)  
 [20495 수열과 헌팅: 실버1](https://www.acmicpc.net/problem/20495)  
+[27436 벌집 2: 실버3](https://www.acmicpc.net/problem/27436)  
 [27932 어깨동무: 실버2](https://www.acmicpc.net/problem/27932)  
 
 </div>
@@ -835,6 +841,7 @@
 <div markdown="1">
 
 [3078 좋은 친구: 골드4](https://www.acmicpc.net/problem/3078)  
+[12186 Sort a scrambled itinerary (Small): 실버3](https://www.acmicpc.net/problem/12186)  
 [13417 카드 문자열: 실버3](https://www.acmicpc.net/problem/13417)  
 [14713 앵무새: 실버2](https://www.acmicpc.net/problem/14713)  
 [20956 아이스크림 도둑 지호: 골드4](https://www.acmicpc.net/problem/20956)  
