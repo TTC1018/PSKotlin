@@ -580,6 +580,7 @@
 [26085 효구와 호규 (Easy): 실버1](https://www.acmicpc.net/problem/26085)  
 [27468 2배 또는 0.5배: 골드5](https://www.acmicpc.net/problem/27468)  
 [28359 수열의 가치: 골드5](https://www.acmicpc.net/problem/28359)  
+[30021 순열 선물하기: 실버2](https://www.acmicpc.net/problem/30021)  
 [31409 착신 전환 소동: 실버3](https://www.acmicpc.net/problem/31409)  
 
 </div>
