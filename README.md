@@ -785,6 +785,7 @@
 [30022 행사 준비: 실버2](https://www.acmicpc.net/problem/30022)  
 [30205 전역 임무: 실버2](https://www.acmicpc.net/problem/30205)  
 [30619 내 집 마련하기: 실버2](https://www.acmicpc.net/problem/30619)  
+[31870 버블버블: 실버3](https://www.acmicpc.net/problem/31870)  
 
 </div>
 </details>
