@@ -215,6 +215,7 @@
 [24446 알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)  
 [24447 알고리즘 수업 - 너비 우선 탐색 4](https://www.acmicpc.net/problem/24447)  
 [24463 미로: 골드4](https://www.acmicpc.net/problem/24463)  
+[24481 알고리즘 수업 - 깊이 우선 탐색 3](https://www.acmicpc.net/problem/24481)  
 [24482 알고리즘 수업 - 깊이 우선 탐색 4](https://www.acmicpc.net/problem/24482)  
 [24483 알고리즘 수업 - 깊이 우선 탐색 5](https://www.acmicpc.net/problem/24483)  
 [25416 빠른 숫자 탐색: 실버2](https://www.acmicpc.net/problem/25416)  
