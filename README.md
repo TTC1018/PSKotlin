@@ -127,6 +127,7 @@
 [16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
 [17140 이차원 배열과 연산: 골드4](https://www.acmicpc.net/problem/17140)  
 [17144 미세먼지 안녕!: 골드4](https://www.acmicpc.net/problem/17144)  
+[17479 정식당: 실버3](https://www.acmicpc.net/problem/17479)  
 [20006 랭킹전 대기열: 실버2](https://www.acmicpc.net/problem/20006)  
 [20056 마법사 상어와 파이어볼: 골드4](https://www.acmicpc.net/problem/20056)  
 [20165 인내의 도미노 장인 호석: 골드5](https://www.acmicpc.net/problem/20165)  
