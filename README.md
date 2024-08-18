@@ -550,6 +550,7 @@
 [15815 천재 수학자 성필: 실버3](https://www.acmicpc.net/problem/15815)  
 [17178 줄서기: 골드5](https://www.acmicpc.net/problem/17178)  
 [17298 오큰수: 골드4](https://www.acmicpc.net/problem/17298)  
+[17952 과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)  
 [24523 내 뒤에 나와 다른 수: 실버2](https://www.acmicpc.net/problem/24523)  
 [25556 포스택: 골드5](https://www.acmicpc.net/problem/25556)  
 [25956 목차 세기: 실버1](https://www.acmicpc.net/problem/25956)  
