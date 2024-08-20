@@ -85,6 +85,7 @@
 [25381 ABBC: 골드4](https://www.acmicpc.net/problem/25381)  
 [25632 소수 부르기 게임: 실버3](https://www.acmicpc.net/problem/25632)  
 [26075 곰곰아 선 넘지마: 골드4](https://www.acmicpc.net/problem/26075)  
+[26215 눈 치우기: 실버3](https://www.acmicpc.net/problem/26215)  
 [26648 물정수열: 실버1](https://www.acmicpc.net/problem/26648)  
 [27277 장기자랑: 실버1](https://www.acmicpc.net/problem/27277)  
 [27446 랩실에서 잘 자요: 실버3](https://www.acmicpc.net/problem/27446)  
