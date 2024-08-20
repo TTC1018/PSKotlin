@@ -755,6 +755,7 @@
 [20495 수열과 헌팅: 실버1](https://www.acmicpc.net/problem/20495)  
 [27436 벌집 2: 실버3](https://www.acmicpc.net/problem/27436)  
 [27932 어깨동무: 실버2](https://www.acmicpc.net/problem/27932)  
+[28357 사탕 나눠주기: 실버2](https://www.acmicpc.net/problem/28357)  
 
 </div>
 </details>
