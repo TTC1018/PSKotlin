@@ -919,6 +919,7 @@
 <div markdown="1">
 
 [2759 팬케이크 뒤집기: 골드4](https://www.acmicpc.net/problem/2759)  
+[7140 데이터 만들기 1: 골드4](https://www.acmicpc.net/problem/7140)  
 
 </div>
 </details>
