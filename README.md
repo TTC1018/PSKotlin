@@ -125,6 +125,7 @@
 [13335 트럭: 실버1](https://www.acmicpc.net/problem/13335)  
 [14503 로봇 청소기: 골드5](https://www.acmicpc.net/problem/14503)  
 [15683 감시: 골드4](https://www.acmicpc.net/problem/15683)  
+[16569 화산쇄설류: 골드4](https://www.acmicpc.net/problem/16569)  
 [16926 배열 돌리기 1: 실버1](https://www.acmicpc.net/problem/16926)  
 [17140 이차원 배열과 연산: 골드4](https://www.acmicpc.net/problem/17140)  
 [17144 미세먼지 안녕!: 골드4](https://www.acmicpc.net/problem/17144)  
