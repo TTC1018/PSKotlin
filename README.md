@@ -676,6 +676,7 @@
 [17610 양팔저울: 실버1](https://www.acmicpc.net/problem/17610)  
 [18231 파괴된 도시: 골드5](https://www.acmicpc.net/problem/18231)  
 [18290 NM과 K (1): 실버1](https://www.acmicpc.net/problem/18290)  
+[18429 근손실: 실버3](https://www.acmicpc.net/problem/18429)  
 [19942 다이어트: 골드5](https://www.acmicpc.net/problem/19942)  
 [19949 영재의 시험: 실버2](https://www.acmicpc.net/problem/19949)  
 [20166 문자열 지옥에 빠진 호석: 골드5](https://www.acmicpc.net/problem/20166)  
