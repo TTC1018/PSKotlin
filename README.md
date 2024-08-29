@@ -513,6 +513,7 @@
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [10407 2 타워: 실버3](https://www.acmicpc.net/problem/10407)  
 [10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
+[11947 이런 반전이: 실버3](https://www.acmicpc.net/problem/11947)  
 [12993 이동3: 실버2](https://www.acmicpc.net/problem/12993)  
 [14232 보석 도둑: 실버1](https://www.acmicpc.net/problem/14232)  
 [14607 피자 (Large): 실버3](https://www.acmicpc.net/problem/14607)  
