@@ -508,6 +508,7 @@
 [2312 수 복원하기: 실버3](https://www.acmicpc.net/problem/2312)  
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [2487 섞기 수열: 골드4](https://www.acmicpc.net/problem/2487)  
+[2725 보이는 점의 개수: 실버2](https://www.acmicpc.net/problem/2725)  
 [3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
 [6591 이항 쇼다운: 실버3](https://www.acmicpc.net/problem/6591)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
