@@ -761,6 +761,7 @@
 [27436 벌집 2: 실버3](https://www.acmicpc.net/problem/27436)  
 [27932 어깨동무: 실버2](https://www.acmicpc.net/problem/27932)  
 [28357 사탕 나눠주기: 실버2](https://www.acmicpc.net/problem/28357)  
+[30459 현수막 걸이: 골드5](https://www.acmicpc.net/problem/30459)  
 
 </div>
 </details>
