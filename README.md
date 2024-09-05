@@ -71,6 +71,7 @@
 [20300 서강근육맨: 실버3](https://www.acmicpc.net/problem/20300)  
 [20310 타노스: 실버3](https://www.acmicpc.net/problem/20310)  
 [20311 화학 실험: 골드5](https://www.acmicpc.net/problem/20311)  
+[20365 블로그2: 실버3](https://www.acmicpc.net/problem/20365)  
 [20928 걷는 건 귀찮아: 골드4](https://www.acmicpc.net/problem/20928)  
 [21600 계단: 실버1](https://www.acmicpc.net/problem/21600)  
 [22981 휴먼 파이프라인: 골드5](https://www.acmicpc.net/problem/22981)  
