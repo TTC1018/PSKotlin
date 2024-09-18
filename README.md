@@ -889,6 +889,7 @@
 [15831 준표의 조약돌: 골드4](https://www.acmicpc.net/problem/15831)  
 [16472 고냥이: 골드4](https://www.acmicpc.net/problem/16472)  
 [20922 겹치는 건 싫어: 실버1](https://www.acmicpc.net/problem/20922)  
+[21967 세워라 반석 위에: 실버3](https://www.acmicpc.net/problem/21967)  
 [22862 가장 긴 짝수 연속한 부분 수열(large): 골드5](https://www.acmicpc.net/problem/22862)  
 [24508 나도리팡: 골드5](https://www.acmicpc.net/problem/24508)  
 [28353 고양이 카페: 실버3](https://www.acmicpc.net/problem/28353)  
