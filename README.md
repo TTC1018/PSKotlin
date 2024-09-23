@@ -310,6 +310,7 @@
 [2533 사회망 서비스(SNS): 골드3](https://www.acmicpc.net/problem/2533)  
 [2629 양팔저울: 골드3](https://www.acmicpc.net/problem/2629)  
 [2705 팰린드롬 파티션: 실버1](https://www.acmicpc.net/problem/2705)  
+[2876 그래픽스 퀴즈: 실버3](https://www.acmicpc.net/problem/2876)  
 [3099 도트 매트릭스 프린터: 골드4](https://www.acmicpc.net/problem/3099)  
 [4095 최대 정사각형: 골드4](https://www.acmicpc.net/problem/4095)  
 [5546 파스타: 골드4](https://www.acmicpc.net/problem/5546)  
