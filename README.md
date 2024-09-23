@@ -320,6 +320,7 @@
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
 [9764 서로 다른 자연수의 합: 골드5](https://www.acmicpc.net/problem/9764)  
 [10571 다이아몬드: 실버1](https://www.acmicpc.net/problem/10571)  
+[11568 민균이의 계략: 실버2](https://www.acmicpc.net/problem/11568)  
 [11909 배열 탈출: 골드5](https://www.acmicpc.net/problem/11909)  
 [11985 오렌지 출하: 골드4](https://www.acmicpc.net/problem/11985)  
 [12852 1로 만들기 2: 실버1](https://www.acmicpc.net/problem/12852)  
