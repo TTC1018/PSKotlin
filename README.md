@@ -537,6 +537,7 @@
 [25562 차의 개수: 실버3](https://www.acmicpc.net/problem/25562)  
 [26090 완전한 수열: 실버2](https://www.acmicpc.net/problem/26090)  
 [27278 영내순환버스: 실버1](https://www.acmicpc.net/problem/27278)  
+[27965 N결수: 실버3](https://www.acmicpc.net/problem/27965)  
 [28138 재밌는 나머지 연산: 실버3](https://www.acmicpc.net/problem/28138)  
 [30405 박물관 견학: 골드5](https://www.acmicpc.net/problem/30405)  
 [31926 밤양갱: 실버1](https://www.acmicpc.net/problem/31926)  
