@@ -902,7 +902,7 @@
 [22862 가장 긴 짝수 연속한 부분 수열(large): 골드5](https://www.acmicpc.net/problem/22862)  
 [24508 나도리팡: 골드5](https://www.acmicpc.net/problem/24508)  
 [28353 고양이 카페: 실버3](https://www.acmicpc.net/problem/28353)  
-
+[30804 과일 탕후루: 실버2](https://www.acmicpc.net/problem/30804)  
 
 </div>
 </details>
