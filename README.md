@@ -537,6 +537,7 @@
 [21980 비슷한 번호판: 실버2](https://www.acmicpc.net/problem/21980)  
 [24516 잘 알려진 수열 구하기: 실버3](https://www.acmicpc.net/problem/24516)  
 [25180 썸 팰린드롬: 실버3](https://www.acmicpc.net/problem/25180)  
+[25487 단순한 문제 (Large): 실버3](https://www.acmicpc.net/problem/25487)  
 [25562 차의 개수: 실버3](https://www.acmicpc.net/problem/25562)  
 [26090 완전한 수열: 실버2](https://www.acmicpc.net/problem/26090)  
 [26646 알프스 케이블카: 실버2](https://www.acmicpc.net/problem/26646)  
