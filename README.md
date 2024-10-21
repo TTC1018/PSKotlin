@@ -96,6 +96,7 @@
 [28324 스케이트 연습: 실버4](https://www.acmicpc.net/problem/28324)  
 [30646 최대 합 순서쌍의 개수: 골드5](https://www.acmicpc.net/problem/30646)  
 [30701 돌아온 똥게임: 실버3](https://www.acmicpc.net/problem/30701)  
+[30825 건공펀치 등차수열: 실버1](https://www.acmicpc.net/problem/30825)  
 [31235 올라올라: 골드4](https://www.acmicpc.net/problem/31235)  
 [31673 특별한 학생회장 교체: 실버3](https://www.acmicpc.net/problem/31673)  
 
