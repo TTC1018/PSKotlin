@@ -735,6 +735,7 @@
 [23843 콘센트: 골드5](https://www.acmicpc.net/problem/23843)  
 [25393 교집합 만들기: 골드5](https://www.acmicpc.net/problem/25393)  
 [28107 회전초밥: 실버1](https://www.acmicpc.net/problem/28107)  
+[31860 열심히 일하는 중: 실버2](https://www.acmicpc.net/problem/31860)  
 
 </div>
 </details>
