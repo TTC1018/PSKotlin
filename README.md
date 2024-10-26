@@ -594,6 +594,7 @@
 [28359 수열의 가치: 골드5](https://www.acmicpc.net/problem/28359)  
 [30021 순열 선물하기: 실버2](https://www.acmicpc.net/problem/30021)  
 [31409 착신 전환 소동: 실버3](https://www.acmicpc.net/problem/31409)  
+[31834 미로 탈출: 실버2](https://www.acmicpc.net/problem/31834)  
 
 </div>
 </details>
