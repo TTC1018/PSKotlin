@@ -744,6 +744,7 @@
 <summary>이분 탐색</summary>
 <div markdown="1">
 
+[1166 선물: 실버3](https://www.acmicpc.net/problem/1166)  
 [1477 휴게소 세우기: 골드4](https://www.acmicpc.net/problem/1477)  
 [1756 피자 굽기: 골드5](https://www.acmicpc.net/problem/1756)  
 [2110 공유기 설치: 골드4](https://www.acmicpc.net/problem/2110)  
