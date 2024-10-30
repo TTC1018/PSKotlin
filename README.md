@@ -99,6 +99,7 @@
 [30825 건공펀치 등차수열: 실버1](https://www.acmicpc.net/problem/30825)  
 [31235 올라올라: 골드4](https://www.acmicpc.net/problem/31235)  
 [31673 특별한 학생회장 교체: 실버3](https://www.acmicpc.net/problem/31673)  
+[32186 역시 내 이세계 수열은 잘못됐다: 실버3](https://www.acmicpc.net/problem/32186)  
 
 </div>
 </details>
