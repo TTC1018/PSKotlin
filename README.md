@@ -393,6 +393,7 @@
 [1512 주기문으로 바꾸기: 골드5](https://www.acmicpc.net/problem/1512)  
 [1599 민식어: 골드5](https://www.acmicpc.net/problem/1599)  
 [1897 토달기: 골드5](https://www.acmicpc.net/problem/1897)  
+[2149 암호 해독: 실버3](https://www.acmicpc.net/problem/2149)  
 [2179 비슷한 단어: 골드4](https://www.acmicpc.net/problem/2179)  
 [2195 문자열 복사: 골드5](https://www.acmicpc.net/problem/2195)  
 [2870 수학숙제: 실버4](https://www.acmicpc.net/problem/2870)  
