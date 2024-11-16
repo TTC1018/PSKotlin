@@ -714,6 +714,7 @@
 [28286 재채점을 기다리는 중: 실버2](https://www.acmicpc.net/problem/28286)  
 [28447 마라탕 재료 고르기: 실버2](https://www.acmicpc.net/problem/28447)  
 [30237 합집합: 골드5](https://www.acmicpc.net/problem/30237)  
+[31937 로그프레소 마에스트로: 실버2](https://www.acmicpc.net/problem/31937)  
 
 </div>
 </details>
