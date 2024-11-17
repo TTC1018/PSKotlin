@@ -55,6 +55,7 @@
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
 [11509 풍선 맞추기: 골드5](https://www.acmicpc.net/problem/11509)  
 [11918 정전: 골드4](https://www.acmicpc.net/problem/11918)  
+[12845 모두의 마블: 실버3](https://www.acmicpc.net/problem/12845)  
 [12931 두 배 더하기: 골드5](https://www.acmicpc.net/problem/12931)  
 [12934 턴 게임: 골드5](https://www.acmicpc.net/problem/12934)  
 [12970 AB: 골드4](https://www.acmicpc.net/problem/12970)  
