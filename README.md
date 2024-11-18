@@ -961,6 +961,15 @@
 </div>
 </details>
 
+<details>
+<summary>해시맵</summary>
+<div markdown="1">
+
+[12867 N차원 여행: 실버2](https://www.acmicpc.net/problem/12867)  
+
+</div>
+</details>
+
 
 ## ✅ 카카오
 ### 2021 인턴십
