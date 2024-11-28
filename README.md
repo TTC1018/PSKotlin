@@ -87,6 +87,7 @@
 [25045 비즈마켓: 실버3](https://www.acmicpc.net/problem/25045)  
 [25381 ABBC: 골드4](https://www.acmicpc.net/problem/25381)  
 [25632 소수 부르기 게임: 실버3](https://www.acmicpc.net/problem/25632)  
+[25945 컨테이너 재배치: 실버3](https://www.acmicpc.net/problem/25945)  
 [26075 곰곰아 선 넘지마: 골드4](https://www.acmicpc.net/problem/26075)  
 [26215 눈 치우기: 실버3](https://www.acmicpc.net/problem/26215)  
 [26648 물정수열: 실버1](https://www.acmicpc.net/problem/26648)  
