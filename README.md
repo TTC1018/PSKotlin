@@ -419,6 +419,7 @@
 [25328 문자열 집합 조합하기: 실버3](https://www.acmicpc.net/problem/25328)  
 [30090 백신 개발: 실버1](https://www.acmicpc.net/problem/30090)  
 [30446 회문수: 실버2](https://www.acmicpc.net/problem/30446)  
+[32298 등차수열을 만들어요: 실버3](https://www.acmicpc.net/problem/32298)  
 
 </div>
 </details>
