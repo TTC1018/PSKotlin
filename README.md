@@ -264,6 +264,7 @@
 
 [2015 수들의 합 4: 골드4](https://www.acmicpc.net/problem/2015)  
 [2313 보석 구매하기: 골드5](https://www.acmicpc.net/problem/2313)  
+[5874 소를 찾아라: 실버3](https://www.acmicpc.net/problem/5874)  
 [6884 소수 부분 수열: 실버2](https://www.acmicpc.net/problem/6884)  
 [7348 테이블 옮기기: 실버2](https://www.acmicpc.net/problem/7348)  
 [10025 게으른 백곰: 실버3](https://www.acmicpc.net/problem/10025)  
