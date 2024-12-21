@@ -678,6 +678,7 @@
 [10472 십자뒤집기: 실버1](https://www.acmicpc.net/problem/10472)  
 [10655 마라톤 1: 실버3](https://www.acmicpc.net/problem/10655)  
 [10881 프로도의 선물 포장: 골드4](https://www.acmicpc.net/problem/10881)  
+[11566 킥: 실버3](https://www.acmicpc.net/problem/11566)  
 [11578 팀원 모집: 골드5](https://www.acmicpc.net/problem/11578)  
 [11747 수열: 실버3](https://www.acmicpc.net/problem/11747)  
 [12101 1, 2, 3 더하기 2: 실버1](https://www.acmicpc.net/problem/12101)  
