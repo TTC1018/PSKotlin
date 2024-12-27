@@ -103,6 +103,7 @@
 [31235 올라올라: 골드4](https://www.acmicpc.net/problem/31235)  
 [31589 포도주 시음: 실버3](https://www.acmicpc.net/problem/31589)  
 [31673 특별한 학생회장 교체: 실버3](https://www.acmicpc.net/problem/31673)  
+[31845 카드 교환: 실버3](https://www.acmicpc.net/problem/31845)  
 [32186 역시 내 이세계 수열은 잘못됐다: 실버3](https://www.acmicpc.net/problem/32186)  
 
 </div>
