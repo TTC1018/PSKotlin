@@ -319,6 +319,7 @@
 [2302 극장 좌석: 실버1](https://www.acmicpc.net/problem/2302)  
 [2411 아이템 먹기: 골드4](https://www.acmicpc.net/problem/2411)  
 [2418 단어 격자: 골드5](https://www.acmicpc.net/problem/2418)  
+[2421 저금통: 골드5](https://www.acmicpc.net/problem/2421)  
 [2533 사회망 서비스(SNS): 골드3](https://www.acmicpc.net/problem/2533)  
 [2629 양팔저울: 골드3](https://www.acmicpc.net/problem/2629)  
 [2705 팰린드롬 파티션: 실버1](https://www.acmicpc.net/problem/2705)  
