@@ -253,6 +253,7 @@
 
 [1027 고층 건물: 골드4](https://www.acmicpc.net/problem/1027)  
 [1709 타일 위의 원: 실버2](https://www.acmicpc.net/problem/1709)  
+[2477 참외밭: 실버2](https://www.acmicpc.net/problem/2477)  
 [3495 아스키 도형: 실버1](https://www.acmicpc.net/problem/3495)  
 [15821 낚이고 낚아라: 실버3](https://www.acmicpc.net/problem/15821)  
 [15916 가희는 그래플러야!!: 실버1](https://www.acmicpc.net/problem/15916)  
