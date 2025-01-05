@@ -726,6 +726,7 @@
 [25542 약속장소: 실버2](https://www.acmicpc.net/problem/25542)  
 [25585 86-에이티식스-1: 골드5](https://www.acmicpc.net/problem/25585)  
 [25602 캔 주기: 실버1](https://www.acmicpc.net/problem/25602)  
+[27884 가희와 서울 지하철 3호선: 실버1](https://www.acmicpc.net/problem/27884)  
 [27967 고추장 괄호 문자열: 실버2](https://www.acmicpc.net/problem/27967)  
 [28286 재채점을 기다리는 중: 실버2](https://www.acmicpc.net/problem/28286)  
 [28447 마라탕 재료 고르기: 실버2](https://www.acmicpc.net/problem/28447)  
