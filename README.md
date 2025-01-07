@@ -94,6 +94,7 @@
 [26215 눈 치우기: 실버3](https://www.acmicpc.net/problem/26215)  
 [26648 물정수열: 실버1](https://www.acmicpc.net/problem/26648)  
 [27277 장기자랑: 실버1](https://www.acmicpc.net/problem/27277)  
+[27370 친구와 배달하기: 실버3](https://www.acmicpc.net/problem/27370)  
 [27446 랩실에서 잘 자요: 실버3](https://www.acmicpc.net/problem/27446)  
 [27740 시프트 연산: 골드4](https://www.acmicpc.net/problem/27740)  
 [28015 영역 색칠: 실버2](https://www.acmicpc.net/problem/28015)  
