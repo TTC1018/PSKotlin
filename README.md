@@ -621,6 +621,7 @@
 [1570 오세준: 골드4](https://www.acmicpc.net/problem/1570)  
 [12947 트리 만들기: 골드4](https://www.acmicpc.net/problem/12947)  
 [12968 방문: 실버2](https://www.acmicpc.net/problem/12968)  
+[17074 정렬: 실버1](https://www.acmicpc.net/problem/17074)  
 [21605 아름다운 수열: 실버1](https://www.acmicpc.net/problem/21605)  
 [26085 효구와 호규 (Easy): 실버1](https://www.acmicpc.net/problem/26085)  
 [27468 2배 또는 0.5배: 골드5](https://www.acmicpc.net/problem/27468)  
