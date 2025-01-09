@@ -336,6 +336,7 @@
 [9184 신나는 함수 실행: 실버2](https://www.acmicpc.net/problem/9184)  
 [9461 파도반 수열: 실버3](https://www.acmicpc.net/problem/9461)  
 [9625 BABBA: 실버5](https://www.acmicpc.net/problem/9625)  
+[9658 돌 게임 4: 실버2](https://www.acmicpc.net/problem/9658)  
 [9764 서로 다른 자연수의 합: 골드5](https://www.acmicpc.net/problem/9764)  
 [10571 다이아몬드: 실버1](https://www.acmicpc.net/problem/10571)  
 [11568 민균이의 계략: 실버2](https://www.acmicpc.net/problem/11568)  
