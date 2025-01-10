@@ -829,6 +829,7 @@
 [2790 F7: 실버2](https://www.acmicpc.net/problem/2790)  
 [2910 빈도 정렬: 실버3](https://www.acmicpc.net/problem/2910)  
 [4159 알래스카: 실버3](https://www.acmicpc.net/problem/4159)  
+[7387 Box: 실버3](https://www.acmicpc.net/problem/7387)  
 [7983 내일 할거야: 골드5](https://www.acmicpc.net/problem/7983)  
 [10424 알고리즘 기말고사: 실버2](https://www.acmicpc.net/problem/10424)  
 [10975 데크 소트 2: 골드5](https://www.acmicpc.net/problem/10975)  
