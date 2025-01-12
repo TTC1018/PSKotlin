@@ -699,6 +699,7 @@
 [12101 1, 2, 3 더하기 2: 실버1](https://www.acmicpc.net/problem/12101)  
 [12842 튀김 소보루: 실버1](https://www.acmicpc.net/problem/12842)  
 [12919 A와 B 2: 골드5](https://www.acmicpc.net/problem/12919)  
+[14223 작은 정사각형 1: 실버3](https://www.acmicpc.net/problem/14223)  
 [14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [14620 꽃길: 실버2](https://www.acmicpc.net/problem/14620)  
