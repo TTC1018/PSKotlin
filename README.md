@@ -541,6 +541,7 @@
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [2487 섞기 수열: 골드4](https://www.acmicpc.net/problem/2487)  
 [2725 보이는 점의 개수: 실버2](https://www.acmicpc.net/problem/2725)  
+[2943 퍼거슨과 사과: 실버2](https://www.acmicpc.net/problem/2942)  
 [3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
 [6571 피보나치 수의 개수: 실버3](https://www.acmicpc.net/problem/6571)  
 [6591 이항 쇼다운: 실버3](https://www.acmicpc.net/problem/6591)  
