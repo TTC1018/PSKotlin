@@ -545,6 +545,7 @@
 [3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
 [6571 피보나치 수의 개수: 실버3](https://www.acmicpc.net/problem/6571)  
 [6591 이항 쇼다운: 실버3](https://www.acmicpc.net/problem/6591)  
+[9333 돈 갚기: 실버1](https://www.acmicpc.net/problem/9333)  
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [10407 2 타워: 실버3](https://www.acmicpc.net/problem/10407)  
 [10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
