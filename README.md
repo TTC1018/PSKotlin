@@ -171,6 +171,7 @@
 [1326 폴짝폴짝: 실버2](https://www.acmicpc.net/problem/1326)  
 [1430 공격: 골드4](https://www.acmicpc.net/problem/1430)  
 [1600 말이 되고픈 연숭이: 골드3](https://www.acmicpc.net/problem/1600)  
+[1682 돌리기: 실버1](https://www.acmicpc.net/problem/1682)  
 [1686 복날: 골드4](https://www.acmicpc.net/problem/1686)  
 [1726 로봇: 골드3](https://www.acmicpc.net/problem/1726)  
 [1953 팀배분: 골드4](https://www.acmicpc.net/problem/1953)  
