@@ -187,6 +187,7 @@
 [2668 숫자고르기: 골드5](https://www.acmicpc.net/problem/2668)  
 [3055 탈출: 골드4](https://www.acmicpc.net/problem/3055)  
 [3182 한동이는 공부가 하기 싫어!: 실버3](https://www.acmicpc.net/problem/3182)  
+[3407 맹세: 실버2](https://www.acmicpc.net/problem/3407)  
 [4963 섬의 개수: 실버2](https://www.acmicpc.net/problem/4963)  
 [5107 마니또: 실버1](https://www.acmicpc.net/problem/5107)  
 [6087 레이저 통신: 골드3](https://www.acmicpc.net/problem/6087)  
