@@ -381,6 +381,7 @@
 [23083 꿀벌 승연이: 골드5](https://www.acmicpc.net/problem/23083)  
 [24390 또 전자레인지야?: 실버1](https://www.acmicpc.net/problem/24390)  
 [24392 영재의 징검다리: 실버1](https://www.acmicpc.net/problem/24392)  
+[24419 알고리즘 수업 - 행렬 경로 문제 2: 실버2](https://www.acmicpc.net/problem/24419)  
 [25170 명랑한 아리의 외출: 골드5](https://www.acmicpc.net/problem/25170)  
 [25343 최장 최장 증가 부분 수열: 골드5](https://www.acmicpc.net/problem/25343)  
 [25634 전구 상태 뒤집기: 골드5](https://www.acmicpc.net/problem/25634)  
