@@ -121,6 +121,7 @@
 [1138 한 줄로 서기: 실버2](https://www.acmicpc.net/problem/1138)  
 [1148 단어 만들기: 골드5](https://www.acmicpc.net/problem/1148)  
 [1411 비슷한 단어: 실버2](https://www.acmicpc.net/problem/1411)  
+[1706 크로스워드: 실버2](https://www.acmicpc.net/problem/1706)  
 [1972 놀라운 문자열: 실버3](https://www.acmicpc.net/problem/1972)  
 [2115 갤러리: 골드5](https://www.acmicpc.net/problem/2115)  
 [2371 파일 구별하기: 실버3](https://www.acmicpc.net/problem/2371)  
