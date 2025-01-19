@@ -131,6 +131,7 @@
 [2852 NBA 농구: 실버3](https://www.acmicpc.net/problem/2852)  
 [3098 소셜네트워크: 실버1](https://www.acmicpc.net/problem/3098)  
 [3961 터치스크린 키보드: 실버2](https://www.acmicpc.net/problem/3961)  
+[3991 한번 쏘면 멈출 수 없어: 실버3](https://www.acmicpc.net/problem/3991)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
 [4881 자리수의 제곱: 실버4](https://www.acmicpc.net/problem/4881)  
 [4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
