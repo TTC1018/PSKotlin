@@ -155,6 +155,7 @@
 [26597 이 사람 왜 이렇게 1122를 좋아함?: 실버2](https://www.acmicpc.net/problem/26597)  
 [28298 더 흔한 타일 색칠 문제: 실버3](https://www.acmicpc.net/problem/28298)  
 [29714 브실이의 구슬 아이스크림: 실버2](https://www.acmicpc.net/problem/29714)  
+[29754 세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다: 실버1](https://www.acmicpc.net/problem/29754)  
 [30023 전구 상태 바꾸기: 골드5](https://www.acmicpc.net/problem/30023)  
 [31747 점호: 실버4](https://www.acmicpc.net/problem/31747)  
 [31869 선배님 밥 사주세요!: 실버3](https://www.acmicpc.net/problem/31869)  
