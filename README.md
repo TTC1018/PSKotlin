@@ -616,6 +616,7 @@
 [17952 과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)  
 [24523 내 뒤에 나와 다른 수: 실버2](https://www.acmicpc.net/problem/24523)  
 [25556 포스택: 골드5](https://www.acmicpc.net/problem/25556)  
+[25918 북극곰은 괄호를 찢어: 실버1](https://www.acmicpc.net/problem/25918)  
 [25956 목차 세기: 실버1](https://www.acmicpc.net/problem/25956)  
 [30892 상어 키우기: 실버1](https://www.acmicpc.net/problem/30892)  
 
