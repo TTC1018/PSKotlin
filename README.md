@@ -533,6 +533,7 @@
 [1572 중앙값: 플래티넘5](https://www.acmicpc.net/problem/1572)  
 [5676 음주 코딩: 골드1](https://www.acmicpc.net/problem/5676)  
 [12837 가계부 (Hard)](https://www.acmicpc.net/problem/12837)  
+[12846 무서운 아르바이트: 플래티넘5](https://www.acmicpc.net/problem/12846)  
 [14428 수열과 쿼리 16: 골드1](https://www.acmicpc.net/problem/14428)  
 [18436 수열과 쿼리 37: 골드1](https://www.acmicpc.net/problem/18436)  
 
