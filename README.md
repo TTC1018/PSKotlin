@@ -644,6 +644,7 @@
 <div markdown="1">
 
 [1570 오세준: 골드4](https://www.acmicpc.net/problem/1570)  
+[7347 플립과 시프트: 실버2](https://www.acmicpc.net/problem/7347)  
 [12947 트리 만들기: 골드4](https://www.acmicpc.net/problem/12947)  
 [12968 방문: 실버2](https://www.acmicpc.net/problem/12968)  
 [17074 정렬: 실버1](https://www.acmicpc.net/problem/17074)  
