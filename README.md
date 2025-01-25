@@ -583,6 +583,7 @@
 [18233 러버덕을 사랑하는 모임: 골드5](https://www.acmicpc.net/problem/18233)  
 [18291 비요뜨의 징검다리 건너기: 골드5](https://www.acmicpc.net/problem/18291)  
 [21980 비슷한 번호판: 실버2](https://www.acmicpc.net/problem/21980)  
+[23082 균형 삼진법: 실버1](https://www.acmicpc.net/problem/23082)  
 [24040 예쁜 케이크: 실버2](https://www.acmicpc.net/problem/24040)  
 [24516 잘 알려진 수열 구하기: 실버3](https://www.acmicpc.net/problem/24516)  
 [25180 썸 팰린드롬: 실버3](https://www.acmicpc.net/problem/25180)  
