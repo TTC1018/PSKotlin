@@ -530,6 +530,7 @@
 <div markdown="1">
 
 [1306 달려라 홍준: 플래티넘5](https://www.acmicpc.net/problem/1306)  
+[1321 군인: 플래티넘5](https://www.acmicpc.net/problem/1321)  
 [1517 버블 소트: 플래티넘5](https://www.acmicpc.net/problem/1517)  
 [1572 중앙값: 플래티넘5](https://www.acmicpc.net/problem/1572)  
 [5676 음주 코딩: 골드1](https://www.acmicpc.net/problem/5676)  
