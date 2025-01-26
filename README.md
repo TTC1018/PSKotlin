@@ -137,6 +137,7 @@
 [4881 자리수의 제곱: 실버4](https://www.acmicpc.net/problem/4881)  
 [4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
 [5212 지구 온난화: 실버2](https://www.acmicpc.net/problem/5212)  
+[9555 대회 장소 준비: 실버3](https://www.acmicpc.net/problem/9555)  
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
 [13022 늑대와 올바른 단어: 실버2](https://www.acmicpc.net/problem/13022)  
 [13335 트럭: 실버1](https://www.acmicpc.net/problem/13335)  
