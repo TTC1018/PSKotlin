@@ -764,6 +764,7 @@
 [27884 가희와 서울 지하철 3호선: 실버1](https://www.acmicpc.net/problem/27884)  
 [27967 고추장 괄호 문자열: 실버2](https://www.acmicpc.net/problem/27967)  
 [28286 재채점을 기다리는 중: 실버2](https://www.acmicpc.net/problem/28286)  
+[28420 카더가든: 실버1](https://www.acmicpc.net/problem/28420)  
 [28447 마라탕 재료 고르기: 실버2](https://www.acmicpc.net/problem/28447)  
 [30237 합집합: 골드5](https://www.acmicpc.net/problem/30237)  
 [31937 로그프레소 마에스트로: 실버2](https://www.acmicpc.net/problem/31937)  
