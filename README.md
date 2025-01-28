@@ -973,6 +973,7 @@
 [6503 망가진 키보드: 실버1](https://www.acmicpc.net/problem/6503)  
 [12892 생일 선물: 골드4](https://www.acmicpc.net/problem/12892)  
 [14246 K보다 큰 구간: 실버2](https://www.acmicpc.net/problem/14246)  
+[14572 스터디 그룹: 플래티넘5](https://www.acmicpc.net/problem/14572)  
 [14719 빗물: 골드5](https://www.acmicpc.net/problem/14719)  
 [14921 용액 합성하기: 골드5](https://www.acmicpc.net/problem/14921)  
 [15831 준표의 조약돌: 골드4](https://www.acmicpc.net/problem/15831)  
