@@ -307,6 +307,7 @@
 [28449 누가 이길까: 골드5](https://www.acmicpc.net/problem/28449)  
 [29718 줄줄이 박수: 실버3](https://www.acmicpc.net/problem/29718)  
 [32173 새치기: 실버3](https://www.acmicpc.net/problem/32173)  
+[32194 질문을 계속돼: 실버2](https://www.acmicpc.net/problem/32194)  
 
 </div>
 </details>
