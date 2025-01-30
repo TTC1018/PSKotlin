@@ -952,6 +952,7 @@
 
 [3078 좋은 친구: 골드4](https://www.acmicpc.net/problem/3078)  
 [12186 Sort a scrambled itinerary (Small): 실버3](https://www.acmicpc.net/problem/12186)  
+[12873 기념품: 실버3](https://www.acmicpc.net/problem/12873)  
 [13417 카드 문자열: 실버3](https://www.acmicpc.net/problem/13417)  
 [14713 앵무새: 실버2](https://www.acmicpc.net/problem/14713)  
 [18115 카드 놓기: 실버3](https://www.acmicpc.net/problem/18115)  
