@@ -241,6 +241,7 @@
 [21735 눈덩이 굴리기: 실버3](https://www.acmicpc.net/problem/21735)  
 [21937 작업: 실버1](https://www.acmicpc.net/problem/21937)  
 [22353 항체 인식: 골드5](https://www.acmicpc.net/problem/22352)  
+[22869 징검다리 건너기 (small): 실버1](https://www.acmicpc.net/problem/22869)  
 [23085 판치기: 골드4](https://www.acmicpc.net/problem/23085)  
 [23835 어떤 우유의 배달목록 (Easy): 골드4](https://www.acmicpc.net/problem/23835)  
 [24446 알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)  
