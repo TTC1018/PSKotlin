@@ -137,6 +137,7 @@
 [3991 한번 쏘면 멈출 수 없어: 실버3](https://www.acmicpc.net/problem/3991)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
 [4881 자리수의 제곱: 실버4](https://www.acmicpc.net/problem/4881)  
+[4900 7 더하기: 실버3](https://www.acmicpc.net/problem/4900)  
 [4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
 [5212 지구 온난화: 실버2](https://www.acmicpc.net/problem/5212)  
 [8989 시계: 실버2](https://www.acmicpc.net/problem/8989)  
