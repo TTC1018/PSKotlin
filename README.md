@@ -259,6 +259,7 @@
 [27971 강아지는 많을수록 좋다: 실버1](https://www.acmicpc.net/problem/27971)  
 [28256 초콜릿 보관함: 실버2](https://www.acmicpc.net/problem/28256)  
 [28423 게임: 골드4](https://www.acmicpc.net/problem/28423)  
+[28471 W키가 빠진 성원이: 실버1](https://www.acmicpc.net/problem/28471)  
 [31575 도시와 비트코인: 실버3](https://www.acmicpc.net/problem/31575)  
 
 </div>
