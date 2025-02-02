@@ -278,6 +278,7 @@
 [17371 이사: 골드1](https://www.acmicpc.net/problem/17371)  
 [17843 시계: 실버5](https://www.acmicpc.net/problem/17843)  
 [29197 아침 태권도: 실버1](https://www.acmicpc.net/problem/29197)  
+[32754 손이 닿는 범위: 실버2](https://www.acmicpc.net/problem/32754)  
 
 </div>
 </details>
