@@ -1035,6 +1035,7 @@
 
 [2759 팬케이크 뒤집기: 골드4](https://www.acmicpc.net/problem/2759)  
 [7140 데이터 만들기 1: 골드4](https://www.acmicpc.net/problem/7140)  
+[27920 카드 뒤집기: 실버3](https://www.acmicpc.net/problem/27920)  
 [28356 부정행위 멈춰!: 실버3](https://www.acmicpc.net/problem/28356)  
 
 </div>
