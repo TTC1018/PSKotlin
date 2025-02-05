@@ -486,6 +486,7 @@
 [14569 시간표 짜기: 실버2](https://www.acmicpc.net/problem/14569)  
 [15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)  
 [18119 단어 암기: 골드4](https://www.acmicpc.net/problem/18119)  
+[21968 선린의 터를: 실버3](https://www.acmicpc.net/problem/21968)  
 [23630 가장 긴 부분 수열 구하기: 실버2](https://www.acmicpc.net/problem/23630)  
 
 </div>
