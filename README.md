@@ -611,6 +611,7 @@
 [27278 영내순환버스: 실버1](https://www.acmicpc.net/problem/27278)  
 [27965 N결수: 실버3](https://www.acmicpc.net/problem/27965)  
 [28138 재밌는 나머지 연산: 실버3](https://www.acmicpc.net/problem/28138)  
+[29715 비밀번호 찾기: 실버3](https://www.acmicpc.net/problem/29715)  
 [30405 박물관 견학: 골드5](https://www.acmicpc.net/problem/30405)  
 [31288 캬루: 실버2](https://www.acmicpc.net/problem/31288)  
 [31926 밤양갱: 실버1](https://www.acmicpc.net/problem/31926)  
