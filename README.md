@@ -1042,6 +1042,7 @@
 [7140 데이터 만들기 1: 골드4](https://www.acmicpc.net/problem/7140)  
 [27920 카드 뒤집기: 실버3](https://www.acmicpc.net/problem/27920)  
 [28356 부정행위 멈춰!: 실버3](https://www.acmicpc.net/problem/28356)  
+[32944 잘못된 LIS 알고리즘: 실버1](https://www.acmicpc.net/problem/32944)  
 
 </div>
 </details>
