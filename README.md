@@ -724,6 +724,7 @@
 [2548 대표 자연수: 실버3](https://www.acmicpc.net/problem/2548)  
 [2599 짝 정하기: 실버3](https://www.acmicpc.net/problem/2599)  
 [2659 십자카드 문제: 실버3](https://www.acmicpc.net/problem/2659)  
+[2784 가로 세로 퍼즐: 실버2](https://www.acmicpc.net/problem/2784)  
 [2922 즐거운 단어: 골드5](https://www.acmicpc.net/problem/2922)  
 [2992 크면서 작은 수: 실버3](https://www.acmicpc.net/problem/2992)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
