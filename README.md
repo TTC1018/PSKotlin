@@ -488,6 +488,7 @@
 [1322 X와 K: 골드4](https://www.acmicpc.net/problem/1322)  
 [2877 4와 7: 골드5](https://www.acmicpc.net/problem/2877)  
 [4312 3의 제곱: 실버3](https://www.acmicpc.net/problem/4312)  
+[9079 동전 게임:실버2](https://www.acmicpc.net/problem/9079)  
 [12025 장난꾸러기 영훈: 골드5](https://www.acmicpc.net/problem/12025)  
 [13701 중복 제거: 골드4](https://www.acmicpc.net/problem/13701)  
 [14569 시간표 짜기: 실버2](https://www.acmicpc.net/problem/14569)  
