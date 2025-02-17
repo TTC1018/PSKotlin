@@ -396,6 +396,7 @@
 [20167 꿈틀꿈틀 호석 애벌레 - 기능성: 골드5](https://www.acmicpc.net/problem/20167)  
 [20951 유아와 곰두리차: 골드5](https://www.acmicpc.net/problem/20951)  
 [21555 빛의 돌 옮기기: 실버2](https://www.acmicpc.net/problem/21555)  
+[22114 창영이와 점프: 실버2](https://www.acmicpc.net/problem/22114)  
 [22857 가장 긴 짝수 연속한 부분 수열 (small): 실버2](https://www.acmicpc.net/problem/22857)  
 [22968 균형: 골드5](https://www.acmicpc.net/problem/22968)  
 [22971 증가하는 부분 수열의 개수: 실버2](https://www.acmicpc.net/problem/22971)  
