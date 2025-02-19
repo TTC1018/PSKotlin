@@ -256,6 +256,7 @@
 [25416 빠른 숫자 탐색: 실버2](https://www.acmicpc.net/problem/25416)  
 [25512 트리를 간단하게 색칠하는 최소 비용: 실버1](https://www.acmicpc.net/problem/25512)  
 [25513 빠른 오름차순 숫자  탐색: 골드5](https://www.acmicpc.net/problem/25513)  
+[25516 거리가 k이하인 트리 노드에서 사과 수확하기: 실버2](https://www.acmicpc.net/problem/25516)  
 [25601 자바의 형변환: 실버1](https://www.acmicpc.net/problem/25601)  
 [27211 도넛 행성: 골드5](https://www.acmicpc.net/problem/27211)  
 [27737 버섯 농장: 실버1](https://www.acmicpc.net/problem/27737)  
