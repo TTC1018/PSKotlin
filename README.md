@@ -765,6 +765,7 @@
 [15812 침략자 진아: 실버2](https://www.acmicpc.net/problem/15812)  
 [15925 욱제는 정치쟁이야!!: 실버1](https://www.acmicpc.net/problem/15925)  
 [15931 풀 하우스: 골드4](https://www.acmicpc.net/problem/15931)  
+[16198 에너지 모으기: 실버1](https://www.acmicpc.net/problem/16198)  
 [16457 단풍잎 이야기: 실버1](https://www.acmicpc.net/problem/16457)  
 [16508 전공책: 실버3](https://www.acmicpc.net/problem/16508)  
 [16936 나3곱2: 골드5](https://www.acmicpc.net/problem/16936)  
