@@ -606,6 +606,7 @@
 [17253 삼삼한 수 2: 실버3](https://www.acmicpc.net/problem/17253)  
 [17425 약수의 합: 골드4](https://www.acmicpc.net/problem/17425)  
 [17427 약수의 합2: 실버2](https://www.acmicpc.net/problem/17427)  
+[17827 달팽이 리스트: 실버2](https://www.acmicpc.net/problem/17827)  
 [18233 러버덕을 사랑하는 모임: 골드5](https://www.acmicpc.net/problem/18233)  
 [18291 비요뜨의 징검다리 건너기: 골드5](https://www.acmicpc.net/problem/18291)  
 [21980 비슷한 번호판: 실버2](https://www.acmicpc.net/problem/21980)  
