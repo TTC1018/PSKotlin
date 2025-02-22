@@ -299,6 +299,7 @@
 [6884 소수 부분 수열: 실버2](https://www.acmicpc.net/problem/6884)  
 [7348 테이블 옮기기: 실버2](https://www.acmicpc.net/problem/7348)  
 [10025 게으른 백곰: 실버3](https://www.acmicpc.net/problem/10025)  
+[10246 부동산 경매: 실버1](https://www.acmicpc.net/problem/10246)  
 [12841 정보대 등산: 실버2](https://www.acmicpc.net/problem/12841)  
 [12847 꿀 아르바이트: 실버3](https://www.acmicpc.net/problem/12847)  
 [14465 소가 길을 건너간 이유 5: 실버2](https://www.acmicpc.net/problem/14465)  
