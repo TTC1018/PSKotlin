@@ -951,6 +951,15 @@
 </details>
 
 <details>
+<summary>차분 공격</summary>
+<div markdown="1">
+
+[가위 가위 가위: 실버2](https://www.acmicpc.net/problem/30506)  
+
+</div>
+</details>
+
+<details>
 <summary>최단 거리</summary>
 <div markdown="1">
 
