@@ -1068,6 +1068,7 @@
 [4848 집합 숫자 표기법: 실버2](https://www.acmicpc.net/problem/4848)  
 [12867 N차원 여행: 실버2](https://www.acmicpc.net/problem/12867)  
 [17264 I AM IRONMAN: 실버3](https://www.acmicpc.net/problem/17264)  
+[32201 눈사람: 실버3](https://www.acmicpc.net/problem/32201)  
 
 </div>
 </details>
