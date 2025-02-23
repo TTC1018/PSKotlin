@@ -838,6 +838,15 @@
 </details>
 
 <details>
+<summary>이분 매칭</summary>
+<div markdown="1">
+
+[1017 소수 쌍: 플래티넘3](https://www.acmicpc.net/problem/1017)  
+
+</div>
+</details>
+
+<details>
 <summary>이분 탐색</summary>
 <div markdown="1">
 
