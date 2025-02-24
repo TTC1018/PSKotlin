@@ -846,6 +846,7 @@
 [2188 축사 배정: 플래티넘4](https://www.acmicpc.net/problem/2188)  
 [11375 열혈강호: 플래티넘4](https://www.acmicpc.net/problem/11375)  
 [11376 열혈강호 2: 플래티넘4](https://www.acmicpc.net/problem/11376)  
+[14433 한조 대기 중: 플래티넘4](https://www.acmicpc.net/problem/14433)  
 [30976 사랑의 큐피드: 플래티넘4](https://www.acmicpc.net/problem/30976)  
 
 </div>
