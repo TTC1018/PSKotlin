@@ -843,6 +843,7 @@
 
 [1017 소수 쌍: 플래티넘3](https://www.acmicpc.net/problem/1017)  
 [2188 축사 배정: 플래티넘4](https://www.acmicpc.net/problem/2188)  
+[11375 열혈강호: 플래티넘4](https://www.acmicpc.net/problem/11375)  
 [30976 사랑의 큐피드: 플래티넘4](https://www.acmicpc.net/problem/30976)  
 
 </div>
