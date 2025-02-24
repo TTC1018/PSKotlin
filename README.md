@@ -842,6 +842,7 @@
 <div markdown="1">
 
 [1017 소수 쌍: 플래티넘3](https://www.acmicpc.net/problem/1017)  
+[2188 축사 배정: 플래티넘4](https://www.acmicpc.net/problem/2188)  
 
 </div>
 </details>
