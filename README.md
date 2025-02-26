@@ -558,6 +558,7 @@
 [1517 버블 소트: 플래티넘5](https://www.acmicpc.net/problem/1517)  
 [1572 중앙값: 플래티넘5](https://www.acmicpc.net/problem/1572)  
 [5676 음주 코딩: 골드1](https://www.acmicpc.net/problem/5676)  
+[10999 구간 합 구하기 2: 플래티넘4](https://www.acmicpc.net/problem/10999)  
 [12837 가계부 (Hard)](https://www.acmicpc.net/problem/12837)  
 [12846 무서운 아르바이트: 플래티넘5](https://www.acmicpc.net/problem/12846)  
 [14428 수열과 쿼리 16: 골드1](https://www.acmicpc.net/problem/14428)  
