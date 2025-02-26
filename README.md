@@ -429,6 +429,15 @@
 </details>
 
 <details>
+<summary>모스 알고리즘</summary>
+<div markdown="1">
+
+[13547 수열과 쿼리 5: 플래티넘 2](https://www.acmicpc.net/problem/13547)  
+
+</div>
+</details>
+
+<details>
 <summary>문자열</summary>
 <div markdown="1">
 
