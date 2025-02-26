@@ -561,6 +561,7 @@
 [12837 가계부 (Hard)](https://www.acmicpc.net/problem/12837)  
 [12846 무서운 아르바이트: 플래티넘5](https://www.acmicpc.net/problem/12846)  
 [14428 수열과 쿼리 16: 골드1](https://www.acmicpc.net/problem/14428)  
+[16978 수열과 쿼리 22: 플래티넘4](https://www.acmicpc.net/problem/16978)  
 [18436 수열과 쿼리 37: 골드1](https://www.acmicpc.net/problem/18436)  
 
 </div>
