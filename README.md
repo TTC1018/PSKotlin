@@ -1094,6 +1094,15 @@
 </details>
 
 <details>
+<summary>펜윅 트리</summary>
+<div markdown="1">
+
+[16404 주식회사 승범이네: 플래티넘3](https://www.acmicpc.net/problem/16404)  
+
+</div>
+</details>
+
+<details>
 <summary>해 구성하기</summary>
 <div markdown="1">
 
