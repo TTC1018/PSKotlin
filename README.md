@@ -578,6 +578,7 @@
 [14428 수열과 쿼리 16: 골드1](https://www.acmicpc.net/problem/14428)  
 [16975 수열과 쿼리 21: 플래티넘4](https://www.acmicpc.net/problem/16975)  
 [16978 수열과 쿼리 22: 플래티넘4](https://www.acmicpc.net/problem/16978)  
+[18227 성대나라의 물탱크: 플래티넘3](https://www.acmicpc.net/problem/18227)  
 [18436 수열과 쿼리 37: 골드1](https://www.acmicpc.net/problem/18436)  
 
 </div>
