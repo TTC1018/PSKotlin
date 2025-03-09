@@ -1099,6 +1099,7 @@
 <summary>펜윅 트리</summary>
 <div markdown="1">
 
+[2820 자동차 공장: 플래티넘3](https://www.acmicpc.net/problem/2820)  
 [11658 구간 합 구하기 3: 플래티넘4](https://www.acmicpc.net/problem/11658)  
 [16404 주식회사 승범이네: 플래티넘3](https://www.acmicpc.net/problem/16404)  
 [17353 하늘에서 떨어지는 1, 2, ..., R-L+1개의 별: 플래티넘2](https://www.acmicpc.net/problem/17353)  
