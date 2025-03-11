@@ -1024,6 +1024,15 @@
 </details>
 
 <details>
+<summary>최대 유량</summary>
+<div markdown="1">
+
+[11408 열혈강호 5: 플래티넘3](https://www.acmicpc.net/problem/11408)  
+
+</div>
+</details>
+
+<details>
 <summary>큐</summary>
 <div markdown="1">
 
