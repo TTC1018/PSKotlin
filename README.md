@@ -1028,6 +1028,7 @@
 <div markdown="1">
 
 [2316 도시 왕복하기 2: 플래티넘3](https://www.acmicpc.net/problem/2316)  
+[3640 제독: 플래티넘2](https://www.acmicpc.net/problem/3640)  
 [11405 책 구매하기: 플래티넘3](https://www.acmicpc.net/problem/11405)  
 [11406 책 구매하기2: 플래티넘4](https://www.acmicpc.net/problem/11406)  
 [11407 책 구매하기3: 플래티넘3](https://www.acmicpc.net/problem/11407)  
