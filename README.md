@@ -112,6 +112,7 @@
 [31673 특별한 학생회장 교체: 실버3](https://www.acmicpc.net/problem/31673)  
 [31845 카드 교환: 실버3](https://www.acmicpc.net/problem/31845)  
 [32186 역시 내 이세계 수열은 잘못됐다: 실버3](https://www.acmicpc.net/problem/32186)  
+[32630 Ai X Aj: 실버2](https://www.acmicpc.net/problem/32630)  
 [32865 컴소인의 크리스마스: 실버1](https://www.acmicpc.net/problem/32865)  
 [32867 파이노: 골드5](https://www.acmicpc.net/problem/32867)  
 
