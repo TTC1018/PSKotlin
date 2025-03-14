@@ -1028,6 +1028,7 @@
 <summary>최대 유량</summary>
 <div markdown="1">
 
+[1420 학교 가지마!: 플래티넘2](https://www.acmicpc.net/problem/1420)  
 [2316 도시 왕복하기 2: 플래티넘3](https://www.acmicpc.net/problem/2316)  
 [3640 제독: 플래티넘2](https://www.acmicpc.net/problem/3640)  
 [11405 책 구매하기: 플래티넘3](https://www.acmicpc.net/problem/11405)  
