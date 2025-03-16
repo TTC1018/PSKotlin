@@ -489,6 +489,15 @@
 </details>
 
 <details>
+<summary>병합 정렬 트리</summary>
+<div markdown="1">
+
+[13537 수열과 쿼리1: 플래티넘3](https://www.acmicpc.net/problem/13537)  
+
+</div>
+</details>
+
+<details>
 <summary>백트래킹</summary>
 <div markdown="1">
 
