@@ -433,6 +433,7 @@
 <summary>모스 알고리즘</summary>
 <div markdown="1">
 
+[2912 백설공주와 난쟁이: 플래티넘 2](https://www.acmicpc.net/problem/2912)  
 [8462 배열의 힘: 플래티넘 2](https://www.acmicpc.net/problem/8462)  
 [12986 화려한 마을2: 플래티넘 2](https://www.acmicpc.net/problem/12986)  
 [13028 민호의 소원: 플래티넘 2](https://www.acmicpc.net/problem/13028)  
