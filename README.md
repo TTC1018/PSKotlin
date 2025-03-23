@@ -834,6 +834,7 @@
 [28447 마라탕 재료 고르기: 실버2](https://www.acmicpc.net/problem/28447)  
 [30052 거리 두기 게임: 실버3](https://www.acmicpc.net/problem/30052)  
 [30237 합집합: 골드5](https://www.acmicpc.net/problem/30237)  
+[31801 증가와 감소: 실버1](https://www.acmicpc.net/problem/31801)  
 [31287 장난감 강아지: 실버2](https://www.acmicpc.net/problem/31287)  
 [31937 로그프레소 마에스트로: 실버2](https://www.acmicpc.net/problem/31937)  
 [32713 숫자 POP: 실버3](https://www.acmicpc.net/problem/32713)  
