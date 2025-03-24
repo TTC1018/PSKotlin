@@ -440,6 +440,7 @@
 [13028 민호의 소원: 플래티넘 2](https://www.acmicpc.net/problem/13028)  
 [13547 수열과 쿼리 5: 플래티넘 2](https://www.acmicpc.net/problem/13547)  
 [13548 수열과 쿼리 6: 플래티넘 1](https://www.acmicpc.net/problem/13548)  
+[13704 수열과 쿼리 11: 플래티넘 1](https://www.acmicpc.net/problem/13704)  
 [14413 Poklon: 플래티넘 2](https://www.acmicpc.net/problem/14413)  
 [14897 서로 다른 수와 쿼리 1: 플래티넘 2](https://www.acmicpc.net/problem/14897)  
 
