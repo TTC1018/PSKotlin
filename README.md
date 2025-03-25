@@ -1049,6 +1049,7 @@
 [11406 책 구매하기2: 플래티넘4](https://www.acmicpc.net/problem/11406)  
 [11407 책 구매하기3: 플래티넘3](https://www.acmicpc.net/problem/11407)  
 [11408 열혈강호 5: 플래티넘3](https://www.acmicpc.net/problem/11408)  
+[11409 열혈강호 6: 플래티넘3](https://www.acmicpc.net/problem/11409)  
 
 </div>
 </details>
