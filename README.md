@@ -879,6 +879,7 @@
 [1298 노트북의 주인을 찾아서: 플래티넘4](https://www.acmicpc.net/problem/1298)  
 [1671 상어의 저녁식사: 플래티넘3](https://www.acmicpc.net/problem/1671)  
 [2188 축사 배정: 플래티넘4](https://www.acmicpc.net/problem/2188)  
+[2191 들쥐의 탈출: 플래티넘4](https://www.acmicpc.net/problem/2191)  
 [11375 열혈강호: 플래티넘4](https://www.acmicpc.net/problem/11375)  
 [11376 열혈강호 2: 플래티넘4](https://www.acmicpc.net/problem/11376)  
 [11377 열혈강호 3: 플래티넘3](https://www.acmicpc.net/problem/11377)  
