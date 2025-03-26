@@ -882,6 +882,7 @@
 [11375 열혈강호: 플래티넘4](https://www.acmicpc.net/problem/11375)  
 [11376 열혈강호 2: 플래티넘4](https://www.acmicpc.net/problem/11376)  
 [11377 열혈강호 3: 플래티넘3](https://www.acmicpc.net/problem/11377)  
+[11378 열혈강호 4: 플래티넘3](https://www.acmicpc.net/problem/11378)  
 [14433 한조 대기 중: 플래티넘4](https://www.acmicpc.net/problem/14433)  
 [17481 최애 정하기: 플래티넘4](https://www.acmicpc.net/problem/17481)  
 [30976 사랑의 큐피드: 플래티넘4](https://www.acmicpc.net/problem/30976)  
