@@ -881,6 +881,7 @@
 [1867 돌멩이 제거: 플래티넘3](https://www.acmicpc.net/problem/1867)  
 [2188 축사 배정: 플래티넘4](https://www.acmicpc.net/problem/2188)  
 [2191 들쥐의 탈출: 플래티넘4](https://www.acmicpc.net/problem/2191)  
+[2414 게시판 구멍 막기: 플래티넘3](https://www.acmicpc.net/problem/2414)  
 [11375 열혈강호: 플래티넘4](https://www.acmicpc.net/problem/11375)  
 [11376 열혈강호 2: 플래티넘4](https://www.acmicpc.net/problem/11376)  
 [11377 열혈강호 3: 플래티넘3](https://www.acmicpc.net/problem/11377)  
