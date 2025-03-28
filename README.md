@@ -47,11 +47,13 @@
 [2872 우리집엔 도서관이 있어: 실버2](https://www.acmicpc.net/problem/2872)  
 [2885 초콜릿 식사: 실버2](https://www.acmicpc.net/problem/2885)  
 [3088 화분 부수기: 실버3](https://www.acmicpc.net/problem/3088)  
+[3155 터널: 실버2](https://www.acmicpc.net/problem/3155)  
 [3216 다운로드: 실버2](https://www.acmicpc.net/problem/3216)  
 [4055 파티가 좋아 파티가 좋아: 골드5](https://www.acmicpc.net/problem/4055)  
 [5002 도어맨: 실버2](https://www.acmicpc.net/problem/5002)  
 [5545 최고의 피자: 실버3](https://www.acmicpc.net/problem/5545)  
 [5911 선물: 실버3](https://www.acmicpc.net/problem/5911)  
+[9048 수위 아저씨의 고민: 실버3](https://www.acmicpc.net/problem/9048)  
 [10330 비트 문자열 재배열하기: 골드5](https://www.acmicpc.net/problem/10330)  
 [11501 주식: 실버2](https://www.acmicpc.net/problem/11501)  
 [11509 풍선 맞추기: 골드5](https://www.acmicpc.net/problem/11509)  
@@ -110,6 +112,8 @@
 [31673 특별한 학생회장 교체: 실버3](https://www.acmicpc.net/problem/31673)  
 [31845 카드 교환: 실버3](https://www.acmicpc.net/problem/31845)  
 [32186 역시 내 이세계 수열은 잘못됐다: 실버3](https://www.acmicpc.net/problem/32186)  
+[32630 Ai X Aj: 실버2](https://www.acmicpc.net/problem/32630)  
+[32865 컴소인의 크리스마스: 실버1](https://www.acmicpc.net/problem/32865)  
 [32867 파이노: 골드5](https://www.acmicpc.net/problem/32867)  
 
 </div>
@@ -136,8 +140,10 @@
 [3991 한번 쏘면 멈출 수 없어: 실버3](https://www.acmicpc.net/problem/3991)  
 [4179 불!: 골드4](https://www.acmicpc.net/problem/4179)  
 [4881 자리수의 제곱: 실버4](https://www.acmicpc.net/problem/4881)  
+[4900 7 더하기: 실버3](https://www.acmicpc.net/problem/4900)  
 [4929 수열 걷기: 실버2](https://www.acmicpc.net/problem/4929)  
 [5212 지구 온난화: 실버2](https://www.acmicpc.net/problem/5212)  
+[8989 시계: 실버2](https://www.acmicpc.net/problem/8989)  
 [9555 대회 장소 준비: 실버3](https://www.acmicpc.net/problem/9555)  
 [11637 인기 투표: 실버5](https://www.acmicpc.net/problem/11637)  
 [13022 늑대와 올바른 단어: 실버2](https://www.acmicpc.net/problem/13022)  
@@ -239,6 +245,7 @@
 [21735 눈덩이 굴리기: 실버3](https://www.acmicpc.net/problem/21735)  
 [21937 작업: 실버1](https://www.acmicpc.net/problem/21937)  
 [22353 항체 인식: 골드5](https://www.acmicpc.net/problem/22352)  
+[22869 징검다리 건너기 (small): 실버1](https://www.acmicpc.net/problem/22869)  
 [23085 판치기: 골드4](https://www.acmicpc.net/problem/23085)  
 [23835 어떤 우유의 배달목록 (Easy): 골드4](https://www.acmicpc.net/problem/23835)  
 [24446 알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)  
@@ -250,12 +257,14 @@
 [25416 빠른 숫자 탐색: 실버2](https://www.acmicpc.net/problem/25416)  
 [25512 트리를 간단하게 색칠하는 최소 비용: 실버1](https://www.acmicpc.net/problem/25512)  
 [25513 빠른 오름차순 숫자  탐색: 골드5](https://www.acmicpc.net/problem/25513)  
+[25516 거리가 k이하인 트리 노드에서 사과 수확하기: 실버2](https://www.acmicpc.net/problem/25516)  
 [25601 자바의 형변환: 실버1](https://www.acmicpc.net/problem/25601)  
 [27211 도넛 행성: 골드5](https://www.acmicpc.net/problem/27211)  
 [27737 버섯 농장: 실버1](https://www.acmicpc.net/problem/27737)  
 [27971 강아지는 많을수록 좋다: 실버1](https://www.acmicpc.net/problem/27971)  
 [28256 초콜릿 보관함: 실버2](https://www.acmicpc.net/problem/28256)  
 [28423 게임: 골드4](https://www.acmicpc.net/problem/28423)  
+[28471 W키가 빠진 성원이: 실버1](https://www.acmicpc.net/problem/28471)  
 [31575 도시와 비트코인: 실버3](https://www.acmicpc.net/problem/31575)  
 
 </div>
@@ -274,6 +283,9 @@
 [15916 가희는 그래플러야!!: 실버1](https://www.acmicpc.net/problem/15916)  
 [17371 이사: 골드1](https://www.acmicpc.net/problem/17371)  
 [17843 시계: 실버5](https://www.acmicpc.net/problem/17843)  
+[29197 아침 태권도: 실버1](https://www.acmicpc.net/problem/29197)  
+[32754 손이 닿는 범위: 실버2](https://www.acmicpc.net/problem/32754)  
+[32282 너 그리고 나 (NAVILLERA): 실버1](https://www.acmicpc.net/problem/32282)  
 
 </div>
 </details>
@@ -288,9 +300,11 @@
 [6884 소수 부분 수열: 실버2](https://www.acmicpc.net/problem/6884)  
 [7348 테이블 옮기기: 실버2](https://www.acmicpc.net/problem/7348)  
 [10025 게으른 백곰: 실버3](https://www.acmicpc.net/problem/10025)  
+[10246 부동산 경매: 실버1](https://www.acmicpc.net/problem/10246)  
 [12841 정보대 등산: 실버2](https://www.acmicpc.net/problem/12841)  
 [12847 꿀 아르바이트: 실버3](https://www.acmicpc.net/problem/12847)  
 [14465 소가 길을 건너간 이유 5: 실버2](https://www.acmicpc.net/problem/14465)  
+[15980 명상 방해꾼: 골드5](https://www.acmicpc.net/problem/15980)  
 [17390 이건 꼭 풀어야 해!: 실버3](https://www.acmicpc.net/problem/17390)  
 [18866 젊은 날의 생이여: 골드4](https://www.acmicpc.net/problem/18866)  
 [19951 태상이의 훈련소 생활: 골드5](https://www.acmicpc.net/problem/19951)  
@@ -307,6 +321,7 @@
 [28449 누가 이길까: 골드5](https://www.acmicpc.net/problem/28449)  
 [29718 줄줄이 박수: 실버3](https://www.acmicpc.net/problem/29718)  
 [32173 새치기: 실버3](https://www.acmicpc.net/problem/32173)  
+[32194 질문을 계속돼: 실버2](https://www.acmicpc.net/problem/32194)  
 
 </div>
 </details>
@@ -384,6 +399,7 @@
 [20167 꿈틀꿈틀 호석 애벌레 - 기능성: 골드5](https://www.acmicpc.net/problem/20167)  
 [20951 유아와 곰두리차: 골드5](https://www.acmicpc.net/problem/20951)  
 [21555 빛의 돌 옮기기: 실버2](https://www.acmicpc.net/problem/21555)  
+[22114 창영이와 점프: 실버2](https://www.acmicpc.net/problem/22114)  
 [22857 가장 긴 짝수 연속한 부분 수열 (small): 실버2](https://www.acmicpc.net/problem/22857)  
 [22968 균형: 골드5](https://www.acmicpc.net/problem/22968)  
 [22971 증가하는 부분 수열의 개수: 실버2](https://www.acmicpc.net/problem/22971)  
@@ -399,6 +415,7 @@
 [28360 양동이 게임: 실버1](https://www.acmicpc.net/problem/28360)  
 [29704 벼락치기: 골드5](https://www.acmicpc.net/problem/29704)  
 [31670 특별한 마법 공격: 실버2](https://www.acmicpc.net/problem/31670)  
+[31861 비밀번호 만들기: 실버1](https://www.acmicpc.net/problem/31861)  
 
 </div>
 </details>
@@ -408,6 +425,24 @@
 <div markdown="1">
 
 [23252 블록: 실버2](https://www.acmicpc.net/problem/23252)  
+
+</div>
+</details>
+
+<details>
+<summary>모스 알고리즘</summary>
+<div markdown="1">
+
+[2912 백설공주와 난쟁이: 플래티넘 2](https://www.acmicpc.net/problem/2912)  
+[6515 Frequent values: 플래티넘 2](https://www.acmicpc.net/problem/6515)  
+[8462 배열의 힘: 플래티넘 2](https://www.acmicpc.net/problem/8462)  
+[12986 화려한 마을2: 플래티넘 2](https://www.acmicpc.net/problem/12986)  
+[13028 민호의 소원: 플래티넘 2](https://www.acmicpc.net/problem/13028)  
+[13547 수열과 쿼리 5: 플래티넘 2](https://www.acmicpc.net/problem/13547)  
+[13548 수열과 쿼리 6: 플래티넘 1](https://www.acmicpc.net/problem/13548)  
+[13704 수열과 쿼리 11: 플래티넘 1](https://www.acmicpc.net/problem/13704)  
+[14413 Poklon: 플래티넘 2](https://www.acmicpc.net/problem/14413)  
+[14897 서로 다른 수와 쿼리 1: 플래티넘 2](https://www.acmicpc.net/problem/14897)  
 
 </div>
 </details>
@@ -425,6 +460,7 @@
 [2149 암호 해독: 실버3](https://www.acmicpc.net/problem/2149)  
 [2179 비슷한 단어: 골드4](https://www.acmicpc.net/problem/2179)  
 [2195 문자열 복사: 골드5](https://www.acmicpc.net/problem/2195)  
+[2714 문자를 받은 승환이: 실버4](https://www.acmicpc.net/problem/2714)  
 [2870 수학숙제: 실버4](https://www.acmicpc.net/problem/2870)  
 [3107 IPv6: 골드5](https://www.acmicpc.net/problem/3107)  
 [4839 소진법: 실버3](https://www.acmicpc.net/problem/4839)  
@@ -438,9 +474,12 @@
 [9241 바이러스 복제: 골드5](https://www.acmicpc.net/problem/9241)  
 [9252 LCS 2: 골드4](https://www.acmicpc.net/problem/9252)  
 [9519 졸려: 골드5](https://www.acmicpc.net/problem/9519)  
+[10166 관중석: 실버1](https://www.acmicpc.net/problem/10166)  
 [11101 꿍의 여친 만들기: 실버2](https://www.acmicpc.net/problem/11101)  
+[11140 LOL: 실버3](https://www.acmicpc.net/problem/11140)  
 [14369 전화번호 수수께끼 (Small): 골드5](https://www.acmicpc.net/problem/14369)  
 [14725 개미굴: 골드3](https://www.acmicpc.net/problem/14725)  
+[16300 H to O: 실버3](https://www.acmicpc.net/problem/16300)  
 [17128 소가 정보섬에 올라온 이유: 실버2](https://www.acmicpc.net/problem/17128)  
 [18917 수열과 쿼리 38: 실버3](https://www.acmicpc.net/problem/18917)  
 [23304 아카라카: 실버2](https://www.acmicpc.net/problem/23304)  
@@ -449,6 +488,15 @@
 [30090 백신 개발: 실버1](https://www.acmicpc.net/problem/30090)  
 [30446 회문수: 실버2](https://www.acmicpc.net/problem/30446)  
 [32298 등차수열을 만들어요: 실버3](https://www.acmicpc.net/problem/32298)  
+
+</div>
+</details>
+
+<details>
+<summary>병합 정렬 트리</summary>
+<div markdown="1">
+
+[13537 수열과 쿼리1: 플래티넘3](https://www.acmicpc.net/problem/13537)  
 
 </div>
 </details>
@@ -470,11 +518,14 @@
 [1322 X와 K: 골드4](https://www.acmicpc.net/problem/1322)  
 [2877 4와 7: 골드5](https://www.acmicpc.net/problem/2877)  
 [4312 3의 제곱: 실버3](https://www.acmicpc.net/problem/4312)  
+[9079 동전 게임:실버2](https://www.acmicpc.net/problem/9079)  
 [12025 장난꾸러기 영훈: 골드5](https://www.acmicpc.net/problem/12025)  
 [13701 중복 제거: 골드4](https://www.acmicpc.net/problem/13701)  
 [14569 시간표 짜기: 실버2](https://www.acmicpc.net/problem/14569)  
 [15787 기차가 어둠을 헤치고 은하수를: 실버2](https://www.acmicpc.net/problem/15787)  
 [18119 단어 암기: 골드4](https://www.acmicpc.net/problem/18119)  
+[20153 영웅이는 2의 거듭 제곱을 좋아해! 영웅이는 2의 거듭 제곱을 좋아해!](https://www.acmicpc.net/problem/20153)  
+[21968 선린의 터를: 실버3](https://www.acmicpc.net/problem/21968)  
 [23630 가장 긴 부분 수열 구하기: 실버2](https://www.acmicpc.net/problem/23630)  
 
 </div>
@@ -535,9 +586,13 @@
 [1517 버블 소트: 플래티넘5](https://www.acmicpc.net/problem/1517)  
 [1572 중앙값: 플래티넘5](https://www.acmicpc.net/problem/1572)  
 [5676 음주 코딩: 골드1](https://www.acmicpc.net/problem/5676)  
+[10999 구간 합 구하기 2: 플래티넘4](https://www.acmicpc.net/problem/10999)  
 [12837 가계부 (Hard)](https://www.acmicpc.net/problem/12837)  
 [12846 무서운 아르바이트: 플래티넘5](https://www.acmicpc.net/problem/12846)  
 [14428 수열과 쿼리 16: 골드1](https://www.acmicpc.net/problem/14428)  
+[16975 수열과 쿼리 21: 플래티넘4](https://www.acmicpc.net/problem/16975)  
+[16978 수열과 쿼리 22: 플래티넘4](https://www.acmicpc.net/problem/16978)  
+[18227 성대나라의 물탱크: 플래티넘3](https://www.acmicpc.net/problem/18227)  
 [18436 수열과 쿼리 37: 골드1](https://www.acmicpc.net/problem/18436)  
 
 </div>
@@ -564,6 +619,7 @@
 [2485 가로수: 실버4](https://www.acmicpc.net/problem/2485)  
 [2487 섞기 수열: 골드4](https://www.acmicpc.net/problem/2487)  
 [2725 보이는 점의 개수: 실버2](https://www.acmicpc.net/problem/2725)  
+[2859 별 관찰: 실버3](https://www.acmicpc.net/problem/2859)  
 [2943 퍼거슨과 사과: 실버2](https://www.acmicpc.net/problem/2942)  
 [3474 교수가 된 현우: 실버3](https://www.acmicpc.net/problem/3474)  
 [6571 피보나치 수의 개수: 실버3](https://www.acmicpc.net/problem/6571)  
@@ -586,6 +642,7 @@
 [17253 삼삼한 수 2: 실버3](https://www.acmicpc.net/problem/17253)  
 [17425 약수의 합: 골드4](https://www.acmicpc.net/problem/17425)  
 [17427 약수의 합2: 실버2](https://www.acmicpc.net/problem/17427)  
+[17827 달팽이 리스트: 실버2](https://www.acmicpc.net/problem/17827)  
 [18233 러버덕을 사랑하는 모임: 골드5](https://www.acmicpc.net/problem/18233)  
 [18291 비요뜨의 징검다리 건너기: 골드5](https://www.acmicpc.net/problem/18291)  
 [21980 비슷한 번호판: 실버2](https://www.acmicpc.net/problem/21980)  
@@ -600,6 +657,7 @@
 [27278 영내순환버스: 실버1](https://www.acmicpc.net/problem/27278)  
 [27965 N결수: 실버3](https://www.acmicpc.net/problem/27965)  
 [28138 재밌는 나머지 연산: 실버3](https://www.acmicpc.net/problem/28138)  
+[29715 비밀번호 찾기: 실버3](https://www.acmicpc.net/problem/29715)  
 [30405 박물관 견학: 골드5](https://www.acmicpc.net/problem/30405)  
 [31288 캬루: 실버2](https://www.acmicpc.net/problem/31288)  
 [31926 밤양갱: 실버1](https://www.acmicpc.net/problem/31926)  
@@ -653,6 +711,7 @@
 <div markdown="1">
 
 [1570 오세준: 골드4](https://www.acmicpc.net/problem/1570)  
+[5600 품질검사: 실버2](https://www.acmicpc.net/problem/5600)  
 [7347 플립과 시프트: 실버2](https://www.acmicpc.net/problem/7347)  
 [12947 트리 만들기: 골드4](https://www.acmicpc.net/problem/12947)  
 [12968 방문: 실버2](https://www.acmicpc.net/problem/12968)  
@@ -706,9 +765,11 @@
 [2548 대표 자연수: 실버3](https://www.acmicpc.net/problem/2548)  
 [2599 짝 정하기: 실버3](https://www.acmicpc.net/problem/2599)  
 [2659 십자카드 문제: 실버3](https://www.acmicpc.net/problem/2659)  
+[2784 가로 세로 퍼즐: 실버2](https://www.acmicpc.net/problem/2784)  
 [2922 즐거운 단어: 골드5](https://www.acmicpc.net/problem/2922)  
 [2992 크면서 작은 수: 실버3](https://www.acmicpc.net/problem/2992)  
 [3085 사탕 게임: 실버3](https://www.acmicpc.net/problem/3085)  
+[3258 컴포트: 실버3](https://www.acmicpc.net/problem/3258)  
 [3671 산업 스파이의 편지: 골드4](https://www.acmicpc.net/problem/3671)  
 [3684 어려운 문제: 실버3](https://www.acmicpc.net/problem/3684)  
 [3980 선발 명단: 골드5](https://www.acmicpc.net/problem/3980)  
@@ -733,6 +794,7 @@
 [14225 부분수열의 합: 실버1](https://www.acmicpc.net/problem/14225)  
 [14391 종이 조각: 골드3](https://www.acmicpc.net/problem/14391)  
 [14620 꽃길: 실버2](https://www.acmicpc.net/problem/14620)  
+[14629 숫자 조각: 실버1](https://www.acmicpc.net/problem/14629)  
 [15566 개구리 1: 실버1](https://www.acmicpc.net/problem/15566)  
 [15658 연산자 끼워넣기 (2): 실버2](https://www.acmicpc.net/problem/15658)  
 [15661 링크와 스타트: 골드5](https://www.acmicpc.net/problem/15661)  
@@ -742,6 +804,7 @@
 [15812 침략자 진아: 실버2](https://www.acmicpc.net/problem/15812)  
 [15925 욱제는 정치쟁이야!!: 실버1](https://www.acmicpc.net/problem/15925)  
 [15931 풀 하우스: 골드4](https://www.acmicpc.net/problem/15931)  
+[16198 에너지 모으기: 실버1](https://www.acmicpc.net/problem/16198)  
 [16457 단풍잎 이야기: 실버1](https://www.acmicpc.net/problem/16457)  
 [16508 전공책: 실버3](https://www.acmicpc.net/problem/16508)  
 [16936 나3곱2: 골드5](https://www.acmicpc.net/problem/16936)  
@@ -771,7 +834,10 @@
 [28286 재채점을 기다리는 중: 실버2](https://www.acmicpc.net/problem/28286)  
 [28420 카더가든: 실버1](https://www.acmicpc.net/problem/28420)  
 [28447 마라탕 재료 고르기: 실버2](https://www.acmicpc.net/problem/28447)  
+[30052 거리 두기 게임: 실버3](https://www.acmicpc.net/problem/30052)  
 [30237 합집합: 골드5](https://www.acmicpc.net/problem/30237)  
+[31801 증가와 감소: 실버1](https://www.acmicpc.net/problem/31801)  
+[31287 장난감 강아지: 실버2](https://www.acmicpc.net/problem/31287)  
 [31937 로그프레소 마에스트로: 실버2](https://www.acmicpc.net/problem/31937)  
 [32713 숫자 POP: 실버3](https://www.acmicpc.net/problem/32713)  
 
@@ -802,6 +868,28 @@
 [25393 교집합 만들기: 골드5](https://www.acmicpc.net/problem/25393)  
 [28107 회전초밥: 실버1](https://www.acmicpc.net/problem/28107)  
 [31860 열심히 일하는 중: 실버2](https://www.acmicpc.net/problem/31860)  
+
+</div>
+</details>
+
+<details>
+<summary>이분 매칭</summary>
+<div markdown="1">
+
+[1017 소수 쌍: 플래티넘3](https://www.acmicpc.net/problem/1017)  
+[1298 노트북의 주인을 찾아서: 플래티넘4](https://www.acmicpc.net/problem/1298)  
+[1671 상어의 저녁식사: 플래티넘3](https://www.acmicpc.net/problem/1671)  
+[1867 돌멩이 제거: 플래티넘3](https://www.acmicpc.net/problem/1867)  
+[2188 축사 배정: 플래티넘4](https://www.acmicpc.net/problem/2188)  
+[2191 들쥐의 탈출: 플래티넘4](https://www.acmicpc.net/problem/2191)  
+[2414 게시판 구멍 막기: 플래티넘3](https://www.acmicpc.net/problem/2414)  
+[11375 열혈강호: 플래티넘4](https://www.acmicpc.net/problem/11375)  
+[11376 열혈강호 2: 플래티넘4](https://www.acmicpc.net/problem/11376)  
+[11377 열혈강호 3: 플래티넘3](https://www.acmicpc.net/problem/11377)  
+[11378 열혈강호 4: 플래티넘3](https://www.acmicpc.net/problem/11378)  
+[14433 한조 대기 중: 플래티넘4](https://www.acmicpc.net/problem/14433)  
+[17481 최애 정하기: 플래티넘4](https://www.acmicpc.net/problem/17481)  
+[30976 사랑의 큐피드: 플래티넘4](https://www.acmicpc.net/problem/30976)  
 
 </div>
 </details>
@@ -850,6 +938,7 @@
 [27932 어깨동무: 실버2](https://www.acmicpc.net/problem/27932)  
 [28357 사탕 나눠주기: 실버2](https://www.acmicpc.net/problem/28357)  
 [30459 현수막 걸이: 골드5](https://www.acmicpc.net/problem/30459)  
+[30685 버터 녹이기: 실버2](https://www.acmicpc.net/problem/30685)  
 
 </div>
 </details>
@@ -923,6 +1012,15 @@
 </details>
 
 <details>
+<summary>차분 공격</summary>
+<div markdown="1">
+
+[가위 가위 가위: 실버2](https://www.acmicpc.net/problem/30506)  
+
+</div>
+</details>
+
+<details>
 <summary>최단 거리</summary>
 <div markdown="1">
 
@@ -946,11 +1044,28 @@
 </details>
 
 <details>
+<summary>최대 유량</summary>
+<div markdown="1">
+
+[1420 학교 가지마!: 플래티넘2](https://www.acmicpc.net/problem/1420)  
+[2316 도시 왕복하기 2: 플래티넘3](https://www.acmicpc.net/problem/2316)  
+[3640 제독: 플래티넘2](https://www.acmicpc.net/problem/3640)  
+[11405 책 구매하기: 플래티넘3](https://www.acmicpc.net/problem/11405)  
+[11406 책 구매하기2: 플래티넘4](https://www.acmicpc.net/problem/11406)  
+[11407 책 구매하기3: 플래티넘3](https://www.acmicpc.net/problem/11407)  
+[11408 열혈강호 5: 플래티넘3](https://www.acmicpc.net/problem/11408)  
+[11409 열혈강호 6: 플래티넘3](https://www.acmicpc.net/problem/11409)  
+
+</div>
+</details>
+
+<details>
 <summary>큐</summary>
 <div markdown="1">
 
 [3078 좋은 친구: 골드4](https://www.acmicpc.net/problem/3078)  
 [12186 Sort a scrambled itinerary (Small): 실버3](https://www.acmicpc.net/problem/12186)  
+[12873 기념품: 실버3](https://www.acmicpc.net/problem/12873)  
 [13417 카드 문자열: 실버3](https://www.acmicpc.net/problem/13417)  
 [14713 앵무새: 실버2](https://www.acmicpc.net/problem/14713)  
 [18115 카드 놓기: 실버3](https://www.acmicpc.net/problem/18115)  
@@ -1017,11 +1132,26 @@
 </details>
 
 <details>
+<summary>펜윅 트리</summary>
+<div markdown="1">
+
+[2820 자동차 공장: 플래티넘3](https://www.acmicpc.net/problem/2820)  
+[11658 구간 합 구하기 3: 플래티넘4](https://www.acmicpc.net/problem/11658)  
+[16404 주식회사 승범이네: 플래티넘3](https://www.acmicpc.net/problem/16404)  
+[17353 하늘에서 떨어지는 1, 2, ..., R-L+1개의 별: 플래티넘2](https://www.acmicpc.net/problem/17353)  
+
+</div>
+</details>
+
+<details>
 <summary>해 구성하기</summary>
 <div markdown="1">
 
 [2759 팬케이크 뒤집기: 골드4](https://www.acmicpc.net/problem/2759)  
 [7140 데이터 만들기 1: 골드4](https://www.acmicpc.net/problem/7140)  
+[27920 카드 뒤집기: 실버3](https://www.acmicpc.net/problem/27920)  
+[28356 부정행위 멈춰!: 실버3](https://www.acmicpc.net/problem/28356)  
+[32944 잘못된 LIS 알고리즘: 실버1](https://www.acmicpc.net/problem/32944)  
 
 </div>
 </details>
@@ -1030,11 +1160,13 @@
 <summary>해시맵</summary>
 <div markdown="1">
 
+[1270 전쟁 - 땅따먹기: 실버3](https://www.acmicpc.net/problem/1270)  
 [2121 넷이 놀기: 실버3](https://www.acmicpc.net/problem/2121)  
 [3077 임진왜란: 실버3](https://www.acmicpc.net/problem/3077)  
 [4848 집합 숫자 표기법: 실버2](https://www.acmicpc.net/problem/4848)  
 [12867 N차원 여행: 실버2](https://www.acmicpc.net/problem/12867)  
 [17264 I AM IRONMAN: 실버3](https://www.acmicpc.net/problem/17264)  
+[32201 눈사람: 실버3](https://www.acmicpc.net/problem/32201)  
 
 </div>
 </details>
