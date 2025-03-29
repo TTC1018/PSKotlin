@@ -877,6 +877,7 @@
 
 [1017 소수 쌍: 플래티넘3](https://www.acmicpc.net/problem/1017)  
 [1298 노트북의 주인을 찾아서: 플래티넘4](https://www.acmicpc.net/problem/1298)  
+[1574 룩 어택: 플래티넘3](https://www.acmicpc.net/problem/1574)  
 [1671 상어의 저녁식사: 플래티넘3](https://www.acmicpc.net/problem/1671)  
 [1867 돌멩이 제거: 플래티넘3](https://www.acmicpc.net/problem/1867)  
 [2188 축사 배정: 플래티넘4](https://www.acmicpc.net/problem/2188)  
