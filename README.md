@@ -162,6 +162,7 @@
 [21608 상어 초등학교: 골드5](https://www.acmicpc.net/problem/21608)  
 [22858 원상 복구 (small): 실버3](https://www.acmicpc.net/problem/22858)  
 [24511 queuestack: 실버3](https://www.acmicpc.net/problem/24511)  
+[25327 다중 항목 선호도 조사 (Large): 실버3](https://www.acmicpc.net/problem/25327)  
 [26597 이 사람 왜 이렇게 1122를 좋아함?: 실버2](https://www.acmicpc.net/problem/26597)  
 [27969 I LOVE JavaScript: 실버3](https://www.acmicpc.net/problem/27969)  
 [28298 더 흔한 타일 색칠 문제: 실버3](https://www.acmicpc.net/problem/28298)  
