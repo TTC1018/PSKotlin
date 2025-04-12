@@ -382,6 +382,7 @@
 [14863 서울에서 경산까지: 골드4](https://www.acmicpc.net/problem/14863)  
 [14925 목장 건설하기: 골드4](https://www.acmicpc.net/problem/14925)  
 [14945 불장난: 골드4](https://www.acmicpc.net/problem/14945)  
+[15131 Auxiliary Project: 실버3](https://www.acmicpc.net/problem/15131)  
 [15486 퇴사 2: 골드5](https://www.acmicpc.net/problem/15486)  
 [15645 내려가기 2: 실버1](https://www.acmicpc.net/problem/15645)  
 [15988 1, 2, 3 더하기 3: 실버2](https://www.acmicpc.net/problem/15988)  
