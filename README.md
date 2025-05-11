@@ -632,6 +632,7 @@
 [9421 소수상근수: 실버1](https://www.acmicpc.net/problem/9421)  
 [10407 2 타워: 실버3](https://www.acmicpc.net/problem/10407)  
 [10434 행복한 소수: 실버2](https://www.acmicpc.net/problem/10434)  
+[10859 뒤집어진 소수: 실버2](https://www.acmicpc.net/problem/10859)  
 [11947 이런 반전이: 실버3](https://www.acmicpc.net/problem/11947)  
 [12910 사탕 나눠주기: 실버3](https://www.acmicpc.net/problem/12910)  
 [12993 이동3: 실버2](https://www.acmicpc.net/problem/12993)  
