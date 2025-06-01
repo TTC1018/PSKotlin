@@ -728,6 +728,7 @@
 [30021 순열 선물하기: 실버2](https://www.acmicpc.net/problem/30021)  
 [31409 착신 전환 소동: 실버3](https://www.acmicpc.net/problem/31409)  
 [31834 미로 탈출: 실버2](https://www.acmicpc.net/problem/31834)  
+[32711 홀수로 나눠라! 짝수로 나눠라!: 실버3](https://www.acmicpc.net/problem/32711)  
 
 </div>
 </details>
