@@ -270,6 +270,7 @@
 [28423 게임: 골드4](https://www.acmicpc.net/problem/28423)  
 [28471 W키가 빠진 성원이: 실버1](https://www.acmicpc.net/problem/28471)  
 [31575 도시와 비트코인: 실버3](https://www.acmicpc.net/problem/31575)  
+[32248 더 게임 오브 데스: 실버1](https://www.acmicpc.net/problem/32248)  
 
 </div>
 </details>
